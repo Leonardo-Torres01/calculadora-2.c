@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "function_calcular-2.c"
+#include "function_divisao.c"
 
 int main()
 {
